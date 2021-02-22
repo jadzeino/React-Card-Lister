@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Card-Lister/static/css/main.49129350.chunk.css",
+    "main.js": "/React-Card-Lister/static/js/main.610c0220.chunk.js",
+    "main.js.map": "/React-Card-Lister/static/js/main.610c0220.chunk.js.map",
+    "runtime-main.js": "/React-Card-Lister/static/js/runtime-main.8f31d277.js",
+    "runtime-main.js.map": "/React-Card-Lister/static/js/runtime-main.8f31d277.js.map",
+    "static/css/2.31461e4f.chunk.css": "/React-Card-Lister/static/css/2.31461e4f.chunk.css",
+    "static/js/2.3ef64286.chunk.js": "/React-Card-Lister/static/js/2.3ef64286.chunk.js",
+    "static/js/2.3ef64286.chunk.js.map": "/React-Card-Lister/static/js/2.3ef64286.chunk.js.map",
+    "static/js/3.65c4667b.chunk.js": "/React-Card-Lister/static/js/3.65c4667b.chunk.js",
+    "static/js/3.65c4667b.chunk.js.map": "/React-Card-Lister/static/js/3.65c4667b.chunk.js.map",
+    "index.html": "/React-Card-Lister/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/React-Card-Lister/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.49129350.chunk.css.map": "/React-Card-Lister/static/css/main.49129350.chunk.css.map",
+    "static/js/2.3ef64286.chunk.js.LICENSE.txt": "/React-Card-Lister/static/js/2.3ef64286.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f31d277.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.3ef64286.chunk.js",
+    "static/css/main.49129350.chunk.css",
+    "static/js/main.610c0220.chunk.js"
+  ]
+}
